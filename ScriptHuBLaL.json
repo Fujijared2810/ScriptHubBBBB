@@ -1,22 +1,40 @@
 {
   "scriptHub":{
-    "Dex Explorer":{
-      "Name": "Dex Explorer",
-      "source": "https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex",
-      "Description": "This is a game explorer (really useful for lua devs)",
-      "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
+       "Dex Explorer":{
+         "Name": "Dex Explorer",
+         "source": "https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex",
+         "Description": "This is a game explorer (really useful for lua devs)",
+         "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
     },
-    "CMD X":{
-      "Name": "CMD X",
-      "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
-      "Description": "An Admin Commands script",
-      "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png",
+       "CMD X":{
+         "Name": "CMD X",
+         "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source",
+         "Description": "An Admin Commands script",
+         "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
     },
-    "Infinite Yield":{
-      "Name": "Infinite Yield",
-      "source": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
-      "Description": "One of the best Admin commands out XD",
-      "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890033506057588836/f3658200-3abc-11ea-973a-b024e3a60673.png",
+       "Infinite Yield":{
+         "Name": "Infinite Yield",
+         "source": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+         "Description": "One of the best Admin commands out XD",
+         "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890033506057588836/f3658200-3abc-11ea-973a-b024e3a60673.png"
     },
+        "Owl Hub":{
+         "Name": "Owl Hub",
+         "source": "https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt",
+         "Description": "Best High quality script",
+         "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890032890719657984/owl-hub1.png"
+    },
+        "Domain Hub V2":{
+         "Name": "Domain Hub V2",
+         "source": "https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source",
+         "Description": "One of the best high quality Tool for roblox!",
+         "Picture:": "https://cdn.discordapp.com/attachments/856792157741121566/890034125795389480/PC5ARCZ.png"
+        },
+        "Solaris Hub":{
+         "Name": "Solaris Hub",
+         "source": "https://solarishub.dev/script.lua",
+         "Description": "The Best new script hub 1 Top 15+ Supported games!",
+         "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/891858359039451156/mqdefault.png",
+        }
   }
 }
